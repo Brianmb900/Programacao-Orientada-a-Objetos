@@ -1,0 +1,17 @@
+O TOMCAT é um container JAVA do APACHE.
+
+HTML são páginas estáticas, Servlets permitem fazer páginas dinâmicas(respostas dinâmicas as requisições).
+
+Servlet:
+>Classe Java que permite codificar uma resposta para requisição de rede.
+.Serve para estender a capacidade de um servidor de aplicações a uma classe comum.
+.Oferece mecanismos para tratamento de requisição e resposta.
+
+>Comumente utilizada para programar uma resposta a uma requisição HTTP
+------------------------------------------------------------------------------------------------------------
+Antigamente as configurações dos Servlets eram feitas pelo web.xml
+------------------------------------------------------------------
+MIME Type - Pegar definição no mozilla developer.
+------------------------------------------------------------------
+No Netbeans "Crtl"+"Shift"+"Seta para baixo" Copia e cola a linha na linha de baixo.
+Trazer uma definição para o Crtl + espaço
