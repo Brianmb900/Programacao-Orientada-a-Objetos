@@ -62,7 +62,7 @@ public class MathServlet extends HttpServlet {
                     +"<option value='/'>/</option>" 
                     +"</select>" 
                     +"<input type='number' name='n2' value='"+n2+"'/>" 
-                    +"<input type='submit' name='gerar-tabuada' value='Calcular'/>");
+                    +"<input type='submit' name='calculadora' value='Calcular'/>");
             out.println("</form>");
             switch (o){
                 case "+" :
@@ -76,6 +76,9 @@ public class MathServlet extends HttpServlet {
                     break;
                 case "/" :
                     out.println("<h2>"+n1+" / "+n2+" = "+(n1/n2)+"</h2>");
+                    break;
+                default:
+                    out.println("<h3 style='color: red'>Selecionar uma opção VÁLIDA</h3>");
                     break;
                     
             }
