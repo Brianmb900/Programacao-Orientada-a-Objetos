@@ -1,0 +1,3 @@
+Quando se coloca o asterisco no fim do caminho, exemplo: api/server/*, qualquer coisa digitada nesse caminho após o server, irá sempre cair no servlet.
+Lembrar de ver os MIME Type.
+Para adicionar e remover manualmente na URL deve-se usar ?"Nome do método"="Texto que vai ser adicionado".
