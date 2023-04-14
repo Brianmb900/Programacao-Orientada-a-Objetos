@@ -1,0 +1,9 @@
+Diretivas: Representam declarações de macro escopo na aplicação
+- A diretiva import, serve para declara um import de um classe utilizada em scriptlets e expressões. Exemplo: <%@ page import="java.util.*" %>
+- A diretiva include serve para incluir conteúdo de outro HTML ou JSP. Exemplo: <%@ include file="hello.jsp" %>
+
+JSP Fragment / Segment (JSPF): São aqruivos com fragmentos de código JSP que podem ser embutidos em outros aquivos, promovendo:
+-
+-
+-
+-
