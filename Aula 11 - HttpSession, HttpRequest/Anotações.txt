@@ -1,0 +1,9 @@
+Classe ServletContext:
+- Classe que representa o contexto do Servlet, que é único na aplicação web e, portanto, global.
+------------------------------------------------------------------------------------------------
+Classe HttpSession:
+-> Classe que representa o contexto da sessão do usuário no navegador, que é único por usuário na aplicação web e, portanto, contextualizada no usuário.
+- Dentre seus métodos destacam-se:
+void setAttribute(java.lang.String name, java.lang.Object object)
+java.lang.Object getAttribute(java.lang.String name)
+void removeAttribute(String name)

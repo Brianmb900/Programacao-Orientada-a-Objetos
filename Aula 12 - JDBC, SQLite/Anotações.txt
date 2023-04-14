@@ -1,0 +1,7 @@
+Definição de JDBC:
+-> Java Database Cinnectivity:
+- Conjunto de interfaces e classes abstratas para programação com banco de dados;
+- Está incluso na API da plataforma Java;
+- O fabricante do banco de dados (ou terceiros) devem forneccer o drive de conexão segundo a especificação do JDBC;
+- O driver precisa ser carregado como uma biblioteca.
+-----------------------------------------------------------------------------------------------
