@@ -1,2 +1,0 @@
-Quando se coloca o asterisco no fim do caminho, exemplo: api/server/*, qualquer coisa digitada nesse caminho após o server, irá sempre cair no servlet.
-Lembrar de ver os MIME Type
