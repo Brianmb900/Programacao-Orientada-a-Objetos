@@ -1,0 +1,47 @@
+Java: Por que?
+1º Link:
+Java se encontra em 3º Lugar, o site monta sua lista com base nos engenheiros habilidoso ao redor do mundo, cursos, vendas de terceiros, motores de busca populares. O foco da lista é a popularidade das linguagens.
+
+2º Link:
+Java se encontra em 2º lugar, o site pega os dados do google trends para fazer a lista, baseado na quantidade de tutoriais pesquisados para aquela linguagem. 
+
+NetBeans: Por que?
+1º Link:
+Netbeans é mais fácil de aprender e tem mais recursos fora da caixa que o eclipse, mas o eclipse pode suportar projetos maiores e é mais customizável.
+As IDEs mais comuns de serem usadas para programara em java são: Eclipse, NetBeans e IDEA.
+NetBeans foi criado em Praga como um projeto de um estudante, este projeto fez sucesso e se tornou cormecial, a Sun Microsystens criadora do java gostou do NetBeans e fez um acordo com os estudantes para adquiri-lo, em 2010 a Oracle comprou a Sun Microsystens.
+NetBeans é mais que uma IDE, é uma plataforma, ele suporta programação em Java, HTML, CSS, com uma estrutura feita para simplificar a aparência de grandes projetos.
+Eclipse foi criado pela IBM, Eclipse formou a Eclipse Foudation, ela é usada para implementar, compartilhar, e ensinar o desenvolvimento de seu código aberto no Eclipse.
+NetBeans: já vem pronto para ser usado fora da caixa, melhor para projetos menores, mais fácil de aprender.
+Eclipse: precisa adicionar plugins e extensões, é melhor para projetos maiores, demora mais para aprender, asssim como você também precisa saber quais plugins e extensões você irá usar.
+
+2º Link:
+NetBeans: menor suporte a plugins e extensões, precisa de muitos plugisn e extensões para dar suporte a modelagem, masi amigável ao usuário e já vem com os plugins básicos instalados, mais estável.
+Eclipse:Suporte a plugins e extensões maior que o do NetBeans, possui suporte excepicional para modelagem, possui um compilador cutomizado de Java, o que as vezes o dá uma vantagem, tende a ficar lento mais fácil que o NetBeans.
+
+Tomcat: Por que?
+1º Link:
+Tomcat é um dos servidores web mais populares no ecosistema Java.
+
+2º Link:
+Algumas fontes dizem que o Tomcat ocupa 60% de todas as implantações de servidores de aplicação Java.
+Embora o Tomcat não seja um servidor de aplicação, você pode usar esses recursos que faltam como dependencias de terceiros incluido na sua aplicação.
+
+GitHub: Por que?
+1º Link:
+GitHub serve como um lar para seus projetos baseados em Git na internet, ele traz melhorias em comparação com servidores Unix Git tradicionais e também interfaces web bem feitas.
+
+2º Link:
+5 razões pela qual  desenvolvedores amam o GitHub:
+1- Comunidade Imensamente Poderosa;
+2- Maior Repositório Compartilhado;
+3- Fácil versão de Controle;
+4- Uma Miríade de Integrações;
+5- Armazenamento em Nuvem Seguro.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Preparação do Ambiente Dev:
+JDK 11;
+NetBeans 14;
+Tomcat 9.
+
+O arquivo server.xml do Tomcat é onde nós podemos colocar e alterar configurações do servidor.
